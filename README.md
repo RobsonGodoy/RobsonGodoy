@@ -1,12 +1,10 @@
 <h1>Olá, eu sou o Robson Godoy, Desenvolvedor front-end atualmente.</h1>
 
-    <div align="center">
+   <div text-align= "center" > 
   <a href="https://github.com/RobsonGodoy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonGodoy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonGodoy&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonGodoy&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonGodoy&layout=compact&langs_count=7&theme=blue"/>
-    </div>
+   </div>
     
     
   <div style="display: inline_block"><br>
